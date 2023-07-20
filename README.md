@@ -14,7 +14,8 @@ Enter the YouTube video URL when prompted.
 Optionally, enter the desired format note to filter the available formats. If not required, leave the input empty.
 Choose the desired format number from the displayed list.
 If you provided a custom download path, the video will be downloaded to the specified location; otherwise, it will be saved in the default folder (C:\Videos\).
-
+OR
+Use a exe file in your language.
 
 Requirements:
 Python 3.x
